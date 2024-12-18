@@ -1,0 +1,13 @@
+// {
+//     "java.project.referencedLibraries": [
+//         "lib/jfreechart-1.5.5-javadoc.jar"
+//     ]
+// }
+
+
+
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}

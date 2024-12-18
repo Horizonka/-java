@@ -1,0 +1,42 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "UserMainFrame",
+            "request": "launch",
+            "mainClass": "src.ui.UserMainFrame",
+            "projectName": "myjava_9bf0a2e6"
+        },
+        {
+            "type": "java",
+            "name": "DeviceStatusFrame",
+            "request": "launch",
+            "mainClass": "src.ui.DeviceStatusFrame",
+            "projectName": "myjava_9bf0a2e6"
+        },
+        {
+            "type": "java",
+            "name": "shebei",
+            "request": "launch",
+            "mainClass": "src.shebei",
+            "projectName": "myjava_9bf0a2e6"
+        },
+        {
+            "type": "java",
+            "name": "TestSQLiteConnection",
+            "request": "launch",
+            "mainClass": "TestSQLiteConnection",
+            "projectName": "myjava_9bf0a2e6"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainFrame",
+            "request": "launch",
+            "mainClass": "src.ui.MainFrame",
+            "classpath": [
+                "lib/**/*.jar"
+            ]
+        }
+    ]
+}
